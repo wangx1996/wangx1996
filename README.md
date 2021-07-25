@@ -1,8 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wangx1996&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-### Hi there 👋
+### Hello World 👋
 
+- 🔭 I’m currently working on perception of autonomous vehicle
+- 📫 How to reach me: wangxubit@foxmail.com
 <!--
 **wangx1996/wangx1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
